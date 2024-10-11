@@ -89,6 +89,4 @@ The documentation will include descriptions of API methods, request and response
 
 # Video
 
-Demostration - https://drive.google.com/file/d/1tt6wFUaPKJlTnU7fklC5Om_OzTivU7TP/view?usp=sharing
-
-Work - https://drive.google.com/file/d/1SADqcYWhMBWOanvYM714XyGRlJSggUc5/view?usp=sharing
+Demostration and Work - https://drive.google.com/drive/folders/11Evw9bnzi1RQ5Cp1UvlPV1gqflWvq9-a?usp=sharing
